@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Senior EECS & Data Science Minor at UC Berkeley. USPTO Inventor. AI Engineer Intern at PwC India.
+  Senior EECS & Data Science Minor at UC Berkeley. AI Engineer Intern at PwC. USPTO Inventor.
  
 profile:
   align: right
@@ -14,25 +14,38 @@ profile:
     <p>CA 95720</p>
     <p>adkeni@berkeley.edu</p>
  
-news: true                  # includes a list of news items
-selected_papers: true       # includes a list of papers marked as "selected"
-social: true                # includes social icons at the bottom of the page
+news: true                  
+selected_papers: true       
+social: true                
 ---
  
-I am a senior at **UC Berkeley** studying Electrical Engineering & Computer Sciences with a minor in Data Science (expected May 2027). My technical focus lies at the intersection of agentic AI systems, machine learning architectures (such as attention blocks and Hidden Markov Models), and physical electronic circuit design.
+I am a senior at **UC Berkeley** studying Electrical Engineering & Computer Sciences with a minor in Data Science (expected May 2027). My technical focus lies at the intersection of machine learning architectures, physical electronic circuit design, and agentic AI systems.
  
-Currently, I am an **AI Engineer Intern at PwC India** in Mumbai, where I am building agentic ML backends and deploying LLMOps workflows. 
+Currently, I am an **AI Engineer Intern at PwC**. Alongside my industry work, my primary research is focused broadly on **Brain–Computer Interfaces (BCI)**, exploring how we can decode cognitive states and build robust neural pipelines.
  
 Before Berkeley, I was an independent inventor, filing two USPTO applications in high school. My first patent, [Water Management System for Water Conservation (#11,403,720)](https://patents.google.com/patent/US11403720), was granted in August 2022. My second, [Air Monitoring and Control System (US 16/994,597)](https://patents.google.com/patent/US20220068132A1), was published in May 2022.
  
+## Quick Links
+- **[📄 View my Resume (PDF)](/assets/pdf/Atharva_Keni_Resume.pdf)**
+- **[💼 Connect on LinkedIn](https://linkedin.com/in/atharva-keni)**
+- **[💻 Check out my Code on GitHub](https://github.com/adkeni)**
+
 ## Technical Interests
+- Brain–Computer Interfaces and neural signal processing
 - Context-optimization engines and agentic AI systems
 - Machine Learning (PyTorch, attention layers, Hidden Markov Models)
-- Electronic circuit design, signal processing, and op-amps
-- Algorithmic optimization and competitive programming fundamentals
+- Electronic circuit design and hardware integration
  
 ## Currently
-- Interning as an AI Engineer at PwC India (Summer 2026)
+- Interning as an AI Engineer at PwC
+- Researching and developing Brain–Computer Interface applications
+- Taking CS 169 (Software Engineering) at UC Berkeley
 - Expanding my knowledge in fundamental algorithms and preparing for the GRE
  
-*Feel free to reach out — I am always happy to discuss AI architectures, contextual retrieval systems, or collaborate on hardware-software integration.*
+*Feel free to reach out — I am always happy to discuss AI architectures, neural engineering, or collaborate on hardware-software integration.*
+
+<style>
+  .profile {
+    max-width: 180px !important; 
+  }
+</style>
