@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: cv
 permalink: /cv/
 description: Curriculum vitae — updated regularly.
